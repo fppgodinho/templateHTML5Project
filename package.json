@@ -1,0 +1,37 @@
+{
+  "name": "templateHTML5Project",
+  "version": "0.0.1",
+  "description": "HTML5 template static webpage project",
+  "main": "public/index.html",
+  "directories": {
+
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "grunt": "^0.4.4",
+    "grunt-contrib-concat": "^0.4.0",
+    "grunt-contrib-copy": "^0.5.0",
+    "grunt-contrib-compass": "^0.7.2",
+    "grunt-contrib-uglify": "^0.4.0",
+    "grunt-contrib-htmlmin": "^0.2.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/fppgodinho/templateHTML5Project.git"
+  },
+  "keywords": [
+    "game",
+    "3rd Party",
+    "crafting",
+    "TR"
+  ],
+  "author": "Fernando Pedro Pereira Godinho <fppgodinho@gmail.com>",
+  "license": "",
+  "bugs": {
+    "url": "https://github.com/fppgodinho/templateHTML5Project/issues"
+  },
+  "homepage": "https://github.com/fppgodinho/templateHTML5Project"
+}
