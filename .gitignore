@@ -26,3 +26,9 @@ node_modules
 
 #IntelliJ
 .idea
+
+#Generated Files
+public/index.html
+public/js
+public/html
+public/css
