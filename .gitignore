@@ -27,6 +27,9 @@ node_modules
 #IntelliJ
 .idea
 
+#Sass
+.sass-cache
+
 #Generated Files
 public/index.html
 public/js
